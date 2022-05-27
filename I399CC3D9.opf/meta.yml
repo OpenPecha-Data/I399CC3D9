@@ -1,0 +1,23 @@
+id: I399CC3D9
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T18:41:55.955934'
+last_modified: '2022-05-27T18:41:55.955948'
+parser: null
+source_metadata:
+  title: 'MSV 3,01: Bhikṣuṇīvibhaṅga'
+  language: bo
+  base:
+    fCBBB:
+      title: Bhikṣuṇīvibhaṅga
+      base_file: fCBBB.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
